@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ```javascript
 const Muhayminul = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java,C,C++],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
