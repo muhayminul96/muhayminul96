@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 <h2> Hi, I'm Syed Muhayminul Islam! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://miro.medium.com/v2/resize:fit:679/0*7Q3yvSIv_t0ioJ-Z.gif" width="230">
 
-<p><em>Software Enginner at <a href="https://www.ussbd.com/">Unicorn Software and Solutions </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Enginner at <a href="https://www.ussbd.com/">Unicorn Software and Solutions </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Msc Student at <a href="[https://www.thoughtworks.com](https://ku.ac.bd/)">Khulna University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![facebook: Muhayminul](https://img.shields.io/facebook/follow/ThaiiBraga?style=social)](https://www.facebook.com/muhayminulislam.prova/)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-muhayminul-islam/)](https://www.linkedin.com/in/syed-muhayminul-islam/)
+[![Facebook: Muhayminul](https://www.google.com/search?client=firefox-b-d&q=facebook+logo#vhid=qqCbF5ZfN1KRuM&vssid=l)](https://www.facebook.com/muhayminulislam.prova/)
+[![Linkedin: Muhayminul](https://img.shields.io/badge/-muhayminul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-muhayminul-islam/)](https://www.linkedin.com/in/syed-muhayminul-islam/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/muhayminul96)
 
 
