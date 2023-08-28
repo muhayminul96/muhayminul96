@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @muhayminul96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Python, React, ML
+- 🌱 I’m currently learning Advance Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+  <!---   tech communities: {
+                        coorganizer: "AfroPython",
+                        Speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      }, --->
 
 <!---
 muhayminul96/muhayminul96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,15 +30,11 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const Muhayminul = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java,C,C++],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C, C++, PHP],
+  tools: [React, Redux, Node, Storybook, Django, Styled-Components, Jest, Docker, Laravel],
   architecture: ["microservices", "event-driven", "design system pattern"],
-<!--   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      }, -->
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+
+ Challenge: "I am focused on Django"
 }
 ```
 
