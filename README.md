@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <h2> Hi, I'm Syed Muhayminul Islam! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://miro.medium.com/v2/resize:fit:679/0*7Q3yvSIv_t0ioJ-Z.gif" width="230">
 
-<p><em>Software Enginner at <a href="https://www.ussbd.com/">Unicorn Software and Solutions </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Msc Student at <a href="https://ku.ac.bd/">Khulna University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Enginner at <a href="https://texion.tech/">Texion Tech</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Msc Student at <a href="https://ku.ac.bd/">Khulna University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Facebook: Muhayminul](https://www.google.com/search?client=firefox-b-d&q=facebook+logo#vhid=qqCbF5ZfN1KRuM&vssid=l)](https://www.facebook.com/muhayminulislam.prova/)
