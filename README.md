@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhayminul96
+- 👋 Hi, I’m @muhayminul96 (Syed Muhayminul Islam)
 - 👀 I’m interested in Python, React, ML
 - 🌱 I’m currently learning Advance Django
 - 💞️ I’m looking to collaborate on ...
