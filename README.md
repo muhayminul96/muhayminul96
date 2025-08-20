@@ -2,7 +2,8 @@
 - 👀 I’m interested in Python, React, ML, Django
 - 🌱 I’m currently learning Advance Django
 - 💞️ I’m looking to collaborate on opensource open source projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... [![Linkedin: Muhayminul](https://img.shields.io/badge/-muhayminul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-muhayminul-islam/)](https://www.linkedin.com/in/syed-muhayminul-islam/)
+
 
   <!---   tech communities: {
                         coorganizer: "AfroPython",
