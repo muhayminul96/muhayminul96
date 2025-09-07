@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, React, ML, Laravel, Django
 - 🌱 I’m currently learning Advance Django and Docker
 - 💞️ I’m looking to collaborate on opensource open source projects
-- 📫 How to reach me ... 
+- 📫 How to reach me ... my phone or email
 
 
   <!---   tech communities: {
